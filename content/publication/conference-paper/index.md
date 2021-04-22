@@ -1,66 +1,53 @@
 ---
-title: "An example conference paper"
-authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: true
-
-links:
-- name: Custom Link
-  url: http://example.org
+abstract: "The paper focuses on diachronic evaluation of semantic changes of
+  harm-related concepts in psychology. More specifically, we investigate a
+  hypothesis that certain concepts such as
+  “addiction”,“bullying”,“harassment”,“prejudice”, and “trauma” became broader
+  during the last four decades. We evaluate semantic changes using two models:
+  an LSA-based model from Sagi et al.(2009) and a diachronic adaptation of
+  word2vec from Hamilton et al.(2016), that are trained on a large corpus of
+  journal abstracts covering the period of 1980–2019. Several concepts showed
+  evidence of broadening.“Addiction” moved from physiological dependency on a
+  substance to include psychological dependency on gaming and the Internet.
+  Similarly,“harassment” and “trauma” shifted towards more psychological
+  meanings. On the other hand,“bullying” has transformed into a more
+  victim-related concept and expanded to new areas such as workplaces."
+slides: null
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "1"
+authors:
+  - Ekaterina Vylomova
+  - Sean Murphy
+  - admin
+summary: "The paper focuses on diachronic evaluation of semantic changes of
+  harm-related concepts in psychology. "
+url_dataset: "#"
+url_project: ""
+publication_short: In *LChange'19*
+url_source: "#"
+url_video: "#"
+publication: In *Proceedings of the 1st International Workshop on Computational
+  Approaches to Historical Language Change*
+featured: true
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+title: Evaluation of semantic change of harm-related concepts in psychology
+tags:
+  - Source Themes
+links:
+  - name: Custom Link
+    url: http://example.org
+projects:
+  - internal-project
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides:
+publishDate: 2017-01-01T00:00:00Z
+url_poster: "#"
+url_code: "#"
+doi: ""
 ---
 
 {{% callout note %}}
