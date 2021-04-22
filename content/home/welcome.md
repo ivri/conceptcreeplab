@@ -6,7 +6,7 @@ widget: hero
 widget_id: welcome
 headless: true
 weight: 10
-title: Concept Creep Lab
+title: "&#8493;oncept &#8493;reep Lab"
 subtitle: ""
 design:
   columns: "1"
