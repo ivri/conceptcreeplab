@@ -20,7 +20,7 @@ education:
   courses: []
 superuser: true
 user_groups:
-  - Lab Head
+  - Researchers
 highlight_name: false
 title: Nicholas Haslam
 email: ""
