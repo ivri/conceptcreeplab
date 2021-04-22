@@ -5,8 +5,9 @@ bio: Nick's research interests are in the fields of personality, social
   psychology and psychiatric classification, and he has published 9 books and
   more than 250 articles or book chapters in these and related areas
 interests:
-  - SocialPsychology
-  - ConceptCreep
+  - Personality
+  - Social psychology
+  - Psychiatric classification
 social:
   - icon: envelope
     icon_pack: fas
