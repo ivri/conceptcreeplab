@@ -21,7 +21,7 @@ superuser: true
 user_groups:
   - Researchers
 highlight_name: false
-title: Nicholas Haslam
+title: Prof Nicholas Haslam
 email: ""
 ---
 Nick Haslam is Professor of Psychology at the University of Melbourne. A BA(Hons) graduate of the University of Melbourne, Nick received his PhD in clinical and social psychology from the University of Pennsylvania in 1993, and taught at the New School for Social Research in New York City before returning to Australia in 2002.
