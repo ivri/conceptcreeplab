@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - 吳恩達
-title: Dr Ekaterina Vylomova
+title: Ekaterina Vylomova
 role: Postdoc
 avatar_filename: img_2653_fixed_4.jpg
 bio: Ekaterina Vylomova is a Postdoctoral Fellow at the University of Melbourne
