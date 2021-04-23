@@ -3,7 +3,7 @@ advanced:
   ? css_style
   ? css_class
 widget: hero
-widget_id: welcome
+widget_id: wominjeka
 headless: true
 weight: 10
 title: "&#8493;oncept &#8493;reep Lab"
