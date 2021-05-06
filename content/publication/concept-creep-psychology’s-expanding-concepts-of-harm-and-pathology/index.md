@@ -29,5 +29,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2015-12-31T20:47:00.000Z
+url_pdf:https://psycnet.apa.org/record/2016-08154-001
+date: 2016-01-01T00:00:00.000Z
 ---
