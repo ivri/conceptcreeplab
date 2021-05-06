@@ -32,7 +32,7 @@ publication: In *Proceedings of the 1st International Workshop on Computational
 featured: true
 date: 2019-01-04T23:00:00.000Z
 url_slides: ""
-title: Evaluation of semantic change of harm-related concepts in psychology
+title: Evaluation of Semantic Change of Harm-related Concepts in Psychology
 tags:
   - ConceptCreep
 links:
