@@ -25,7 +25,7 @@ social:
       header: false
     link: mwheeler@swin.edu.au
     icon_pack: fas
-    icon: envelop
+    icon: envelope
 organizations:
   - name: Swinburne University of Technology
 email: ""
