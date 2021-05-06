@@ -10,7 +10,7 @@ social:
     icon: twitter
   - display:
       header: false
-    link: jtse@student.unimelb.edu.au
+    link: "mailto: jtse@student.unimelb.edu.au"
     icon_pack: fas
     icon: envelope
 email: ""
