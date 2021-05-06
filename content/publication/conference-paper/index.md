@@ -30,7 +30,7 @@ url_video: "#"
 publication: In *Proceedings of the 1st International Workshop on Computational
   Approaches to Historical Language Change*
 featured: true
-date: 2013-07-01T00:00:00.000Z
+date: 2019-01-04T23:00:00.000Z
 url_slides: ""
 title: Evaluation of semantic change of harm-related concepts in psychology
 tags:
@@ -49,9 +49,3 @@ url_poster: "#"
 url_code: "#"
 doi: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
