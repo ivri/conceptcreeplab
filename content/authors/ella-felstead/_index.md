@@ -2,12 +2,17 @@
 title: Ella Felstead
 role: Honours Student
 avatar_filename: avatar.jpg
-social: []
+social:
+  - display:
+      header: false
+    link: efelstead@student.unimelb.edu.au
+    icon_pack: fas
+    icon: envelop
 education:
   courses:
     - institution: The University of Melbourne
       course: Honours Student
-email: efelstead@student.unimelb.edu.au
+email: ""
 superuser: false
 user_groups:
   - Researchers
