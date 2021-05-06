@@ -1,7 +1,7 @@
 ---
 title: Ella Felstead
 role: Honours Student
-avatar_filename: ""
+avatar_filename: avatar.jpg
 social: []
 education:
   courses:
