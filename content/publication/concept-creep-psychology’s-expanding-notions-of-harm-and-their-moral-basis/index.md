@@ -1,7 +1,7 @@
 ---
 title: "Concept creep: Psychology’s Expanding Notions of Harm and Their Moral Basis"
 publication_types:
-  - "6"
+  - "2"
 authors:
   - admin
 doi: https://www.doi.org/10.4324/9781315644189
