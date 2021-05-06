@@ -1,5 +1,5 @@
 ---
-title: "Concept creep: Psychology’s expanding concepts of harm and pathology"
+title: "Concept Creep: Psychology’s Expanding Concepts of Harm and Pathology"
 publication_types:
   - "2"
 authors:
