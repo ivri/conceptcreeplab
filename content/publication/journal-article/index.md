@@ -17,7 +17,7 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - nicholas-haslam
+  - admin
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
@@ -27,9 +27,9 @@ author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "*2016. Journal of Psychopathology, 22, 4-9*"
+publication: "*Journal of Psychopathology, 22, 4-9, 2016*"
 featured: false
-date: 2015-09-01T00:00:00Z
+date: 2015-09-01T00:00:00.000Z
 url_slides: ""
 title: Looping effects and the expanding concept of mental disorder
 tags:
@@ -39,7 +39,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
