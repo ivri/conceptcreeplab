@@ -6,6 +6,7 @@ publication_types:
 authors:
   - Melanie McGrath
   - admin
+doi: " https://doi.org/10.1371/journal.pone.0237732"
 publication: PLoS ONE, 15(8)
 abstract: Three studies (Ns = 350, 301 & 341) examined the reliability,
   validity, and correlates of a new measure of harm inflation, the individual
