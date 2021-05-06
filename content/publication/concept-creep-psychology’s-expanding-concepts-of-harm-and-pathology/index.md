@@ -5,7 +5,8 @@ publication_types:
 authors:
   - admin
 doi: https://doi.org/10.1080/1047840X.2016.1082418
-publication_short: Psychological Inquiry, 27, 1-17
+publication: Psychological Inquiry, 27, 1-17
+publication_short: ""
 abstract: >-
   Many of psychology's concepts have undergone semantic shifts in
     recent years. These conceptual changes follow a consistent trend. Concepts
