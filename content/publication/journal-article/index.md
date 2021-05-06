@@ -33,10 +33,10 @@ date: 2015-09-01T00:00:00.000Z
 url_slides: ""
 title: Looping effects and the expanding concept of mental disorder
 tags:
-  - Source Themes
+  - ConceptCreep
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption: ""
   focal_point: ""
   preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z
