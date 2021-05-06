@@ -9,7 +9,7 @@ authors:
   - Kathryn Randall-Dzerdz
   - Melissa Wheeler
   - Sean Murphy
-  - Nick Haslam
+  - admin
 doi: https://doi.org/10.1016/j.paid.2019.04.015
 publication: Personality and Individual Differences, 147, 79-84
 abstract: >
