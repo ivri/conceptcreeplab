@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: efelstead@student.unimelb.edu.au
+    link: mailto:efelstead@student.unimelb.edu.au
     icon_pack: fas
     icon: envelope
 education:
