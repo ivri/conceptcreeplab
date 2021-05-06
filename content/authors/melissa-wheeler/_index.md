@@ -1,7 +1,7 @@
 ---
 title: Melissa	Wheeler
 role: Senior Lecturer
-avatar_filename: mwheeler.jpg
+avatar_filename: avatar.jpg
 bio: Dr Melissa Wheeler is a Senior Lecturer in the Department of Management and
   Marketing at Swinburn.
 interests:
