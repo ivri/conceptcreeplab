@@ -10,5 +10,5 @@ education:
 email: efelstead@student.unimelb.edu.au
 superuser: false
 user_groups:
-  - Frequent Collaborators
+  - Researchers
 ---
