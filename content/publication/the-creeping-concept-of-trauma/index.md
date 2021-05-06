@@ -21,7 +21,7 @@ tags:
   - ConceptCreep
   - Trauma
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2020-10-31T22:43:00.000Z
