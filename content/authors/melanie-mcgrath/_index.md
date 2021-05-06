@@ -35,5 +35,7 @@ social:
 organizations:
   - name: The University of Melbourne
 superuser: false
+user_groups:
+  - Researchers
 ---
 Melanie studies semantic expansion of harm-based psychological concepts such as prejudice, bullying, trauma, and mental disorder. Her current research focus is on the role of differentiated sensitivity to threat in an individual's understanding of such concepts. Melanie is also an Emerging Scholar of the Center for the Science for Moral Understanding. Her program of research for the Center explores how moral typecasting processes may interact with concept creep to exacerbate social polarization.
