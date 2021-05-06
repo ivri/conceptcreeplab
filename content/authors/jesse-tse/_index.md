@@ -12,7 +12,7 @@ social:
       header: false
     link: jtse@student.unimelb.edu.au
     icon_pack: fas
-    icon: envelop
+    icon: envelope
 email: ""
 superuser: false
 user_groups:
