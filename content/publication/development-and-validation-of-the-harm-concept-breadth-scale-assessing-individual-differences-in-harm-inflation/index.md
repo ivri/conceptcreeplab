@@ -2,7 +2,7 @@
 title: "Development and Validation of the Harm Concept Breadth Scale: Assessing
   Individual Differences in Harm Inflation"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Melanie McGrath
   - admin
