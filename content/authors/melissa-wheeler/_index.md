@@ -23,7 +23,7 @@ social:
     icon: google-scholar
   - display:
       header: false
-    link: mwheeler@swin.edu.au
+    link: mailto:mwheeler@swin.edu.au
     icon_pack: fas
     icon: envelope
 organizations:
