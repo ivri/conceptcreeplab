@@ -7,7 +7,7 @@ authors:
   - 吳恩達
 title: Ekaterina Vylomova
 role: Postdoc
-avatar_filename: https://i1.rgstatic.net/ii/profile.image/1003041981480965-1616155252870_Q512/Katerina-Vylomova.jpg
+avatar_filename: avatar.jpg
 bio: Ekaterina Vylomova is a Postdoctoral Fellow at the University of Melbourne
 interests:
   - Diachronic semantic change
