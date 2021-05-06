@@ -1,5 +1,5 @@
 ---
-abstract: The  concept  of  ‘looping  effects’  helps  to  clarify  how  psychiat-ric  conditions  are  moving  targets.  As  professional  understand-ings
+abstract: The  concept  of  ‘looping  effects’  helps  to  clarify  how  psychiatric  conditions  are  moving  targets.  As  professional  understand-ings
   of mental disorders change, people shape their behaviour,
   experience  and  self-understanding  in  response.  By  this  means,  evolving
   concepts of mental disorder, carried by language, arose
@@ -13,7 +13,7 @@ abstract: The  concept  of  ‘looping  effects’  helps  to  clarify  how  psy
   in an ever-expanding vortex. Possible looping effects of this conceptual creep
   are discussed.
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.researchgate.net/publication/298090731_Looping_effects_and_the_expanding_concept_of_mental_disorder
 publication_types:
   - "2"
 authors:
@@ -29,7 +29,7 @@ url_source: ""
 url_video: ""
 publication: "*Journal of Psychopathology, 22, 4-9, 2016*"
 featured: false
-date: 2015-09-01T00:00:00.000Z
+date: 2016-02-01T00:00:00.000Z
 url_slides: ""
 title: Looping effects and the expanding concept of mental disorder
 tags:
