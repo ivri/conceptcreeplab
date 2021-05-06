@@ -21,9 +21,14 @@ social:
     link: https://scholar.google.com.au/citations?user=Cl1Nu2gAAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
+  - display:
+      header: false
+    link: mwheeler@swin.edu.au
+    icon_pack: fas
+    icon: envelop
 organizations:
   - name: Swinburne University of Technology
-email: mwheeler@swin.edu.au
+email: ""
 superuser: false
 user_groups:
   - Researchers
