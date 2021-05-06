@@ -30,21 +30,21 @@ url_video: "#"
 publication: In *Proceedings of the 1st International Workshop on Computational
   Approaches to Historical Language Change*
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 title: Evaluation of semantic change of harm-related concepts in psychology
 tags:
-  - Source Themes
+  - ConceptCreep
 links:
   - name: Custom Link
     url: http://example.org
 projects:
   - internal-project
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 doi: ""
