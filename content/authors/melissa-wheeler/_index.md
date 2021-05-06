@@ -1,6 +1,6 @@
 ---
 title: Melissa	Wheeler
-role: Researchers
+role: Senior Lecturer
 avatar_filename: avatar
 bio: "Dr Melissa Wheeler is a Senior Lecturer in the Department of Management
   and Marketing at Swinburen and lectures in the areas of business ethics,
@@ -28,4 +28,6 @@ organizations:
   - name: Swinburne University of Technology
 email: mwheeler@swin.edu.au
 superuser: false
+user_groups:
+  - Researchers
 ---
