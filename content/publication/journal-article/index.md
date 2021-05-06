@@ -18,18 +18,16 @@ publication_types:
   - "2"
 authors:
   - admin
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "*Journal of Psychopathology, 22, 4-9, 2016*"
+publication: "*Journal of Psychopathology, 22, 4-9*"
 featured: false
-date: 2016-02-01T00:00:00.000Z
+date: 2016-03-01T00:00:00.000Z
 url_slides: ""
 title: Looping effects and the expanding concept of mental disorder
 tags:
@@ -44,9 +42,3 @@ url_poster: ""
 url_code: ""
 doi: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
