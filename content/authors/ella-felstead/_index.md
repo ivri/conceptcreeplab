@@ -7,7 +7,7 @@ social:
       header: false
     link: efelstead@student.unimelb.edu.au
     icon_pack: fas
-    icon: envelop
+    icon: envelope
 education:
   courses:
     - institution: The University of Melbourne
