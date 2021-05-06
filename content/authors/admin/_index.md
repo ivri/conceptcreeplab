@@ -1,6 +1,6 @@
 ---
 role: Professor of Psychology at the University of Melbourne
-avatar_filename: nick.jpeg
+avatar_filename: avatar.jpg
 bio: Nick's research interests are in the fields of personality, social
   psychology and psychiatric classification, and he has published 9 books and
   more than 250 articles or book chapters in these and related areas
