@@ -8,6 +8,8 @@ social:
     link: mailto:efelstead@student.unimelb.edu.au
     icon_pack: fas
     icon: envelope
+organizations:
+  - name: The University of Melbourne
 education:
   courses:
     - institution: The University of Melbourne
