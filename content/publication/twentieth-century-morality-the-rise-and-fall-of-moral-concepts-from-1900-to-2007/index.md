@@ -4,8 +4,8 @@ title: "Twentieth Century Morality: The Rise and Fall of Moral Concepts From
 publication_types:
   - "2"
 authors:
-  - MelissaWheeler
-  - MelanieMcGrath
+  - Melissa Wheeler
+  - Melanie McGrath
   - admin
 doi: " https://doi.org/10.1371/journal.pone.0212267"
 publication: PLoS ONE, 14(2)
