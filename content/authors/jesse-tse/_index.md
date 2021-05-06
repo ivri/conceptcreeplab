@@ -13,6 +13,8 @@ social:
     link: "mailto: jtse@student.unimelb.edu.au"
     icon_pack: fas
     icon: envelope
+organizations:
+  - name: The University of Melbourne
 email: ""
 superuser: false
 user_groups:
