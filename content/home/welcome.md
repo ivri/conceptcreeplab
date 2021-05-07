@@ -12,4 +12,4 @@ design:
   columns: "1"
 hero_media: wominjeka.jpg
 ---
-The Concept Creep Lab is led by Prof Nicholas Haslam. We are based at the University of Melbourne. TBA More
+The Concept Creep Lab is led by Prof Nicholas Haslam. We are based at the University of Melbourne.
