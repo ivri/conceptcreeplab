@@ -7,7 +7,7 @@ authors:
   - Brodie Dakin
   - Fabian Fabiano
   - Melanie McGrath
-  - Joshua Rhee
+  - Josh Rhee
   - Ekaterina Vylomova
   - Morgan Weaving
   - Melissa Wheeler
